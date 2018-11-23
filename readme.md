@@ -6,6 +6,8 @@
 - [介绍](#introduction)
 - [技术栈](#versions)
 - [安装](#installation)
+- [配置](#configuration)
+- [启动](#run)
 
 ## Introduction
 
@@ -49,7 +51,7 @@
 
 * [swoole扩展的安装](https://www.swoole.com/)
  
-## 安裝
+## installation
 
 ```bash
     git clone https://github.com/shisiying/webim
@@ -59,7 +61,7 @@
 
 ```
 
-## 配置
+## configuration
 
 在config路径下
 
@@ -274,7 +276,7 @@ server {
     }
 }
 ```
-## 启动
+## run
 ```bash
 
 直接项目根目录下执行,加d可以守护态运行
