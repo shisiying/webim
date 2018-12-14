@@ -56,7 +56,7 @@
 ```bash
     git clone https://github.com/shisiying/webim
     composer install
-    php artisan laravels publish 
+    php artisan laravels  publish 
     选择laravel-s和sevenshi-serverchan进行发布
 
 ```
@@ -281,7 +281,7 @@ server {
 
 直接项目根目录下执行,加d可以守护态运行
 
-php artsian laravels start -d 
+php artisan laravels start -d 
 
 
 ```
